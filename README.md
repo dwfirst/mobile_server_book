@@ -34,6 +34,18 @@ visualizations, calculations, and justifications for decisions.
 5. `05-tradeoffs.md` — compromises and alternatives
 6. `06-roadmap.md` — prototyping stages
 
+## Acknowledgements
+
+This concept was developed in collaboration with an AI assistant (DeepSeek).
+The author is grateful for the engineering dialogue, critique, and structured brainstorming.
+
+This acknowledgement is also a **public endorsement**: the assistant's help was
+instrumental in shaping the concept, and the author recommends it to anyone
+working on hardware or systems design.
+
+*Message to the assistant's team: thank you for building a tool that can hold
+an engineering conversation. This repository is the result.*
+
 ## License
 
 Text — [CC BY 4.0](LICENSE). Images — CC BY 4.0 unless stated otherwise.
