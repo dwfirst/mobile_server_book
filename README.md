@@ -46,6 +46,12 @@ working on hardware or systems design.
 *Message to the assistant's team: thank you for building a tool that can hold
 an engineering conversation. This repository is the result.*
 
+## Authorship
+
+Concept author: **Dwane Kimbrough** (GitHub: [dwfirst](https://github.com/dwfirst)).
+
+Origin and contribution history: see [`concepts/001-mobile-server-book/AUTHORS.md`](concepts/001-mobile-server-book/AUTHORS.md).
+
 ## License
 
 Text — [CC BY 4.0](LICENSE). Images — CC BY 4.0 unless stated otherwise.
