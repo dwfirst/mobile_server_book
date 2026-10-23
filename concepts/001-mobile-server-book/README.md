@@ -112,3 +112,4 @@ To keep the concept honest, the following are explicitly out of scope for revisi
 - [`05-tradeoffs.md`](05-tradeoffs.md) — what we cut and why
 - [`06-roadmap.md`](06-roadmap.md) — 6-month prototyping plan
 - [`FUTURE.md`](FUTURE.md) — deferred ideas for later revisions
+- [`AUTHORS.md`](AUTHORS.md) — authorship, origin, and intellectual property
