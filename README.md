@@ -13,7 +13,7 @@
 This repository contains engineering concept designs for hardware devices. Each concept is a complete thought:
 **problem -> idea -> architecture -> specification -> tradeoffs -> roadmap**.
 
-The repository deliberately contains **no code and no scripts** â€” only engineering design,
+The repository deliberately contains **no code and no scripts** — only engineering design,
 visualizations, calculations, and justifications for decisions.
 
 ## Concept catalog
@@ -31,12 +31,12 @@ visualizations, calculations, and justifications for decisions.
 
 ## Concept structure
 
-1. `01-idea.md` â€” problem, user, value
-2. `02-sketch/` â€” sketches and drafts
-3. `03-architecture/` â€” layers, network, cooling
-4. `04-spec/` â€” BOM, power, constraints
-5. `05-tradeoffs.md` â€” compromises and alternatives
-6. `06-roadmap.md` â€” prototyping stages
+1. `01-idea.md` — problem, user, value
+2. `02-sketch/` — sketches and drafts
+3. `03-architecture/` — layers, network, cooling
+4. `04-spec/` — BOM, power, constraints
+5. `05-tradeoffs.md` — compromises and alternatives
+6. `06-roadmap.md` — prototyping stages
 
 ## Acknowledgements
 
@@ -58,5 +58,4 @@ Origin and contribution history: see [`concepts/001-mobile-server-book/AUTHORS.m
 
 ## License
 
-Text â€” [CC BY 4.0](LICENSE). Images â€” CC BY 4.0 unless stated otherwise.
-
+Text — [CC BY 4.0](LICENSE). Images — CC BY 4.0 unless stated otherwise.
